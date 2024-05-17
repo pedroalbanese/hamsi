@@ -1,0 +1,2 @@
+# hamsi
+Hamsi Hash Function
